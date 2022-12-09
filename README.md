@@ -24,5 +24,7 @@
 2. Tune a channel dedicated chat AI
 
 ## My thoughts on Chatgpt and details on how I have code with it
+
 [廣東話] https://youtu.be/O8si34bnE6E
+
 [English] Coming soon 🚧
