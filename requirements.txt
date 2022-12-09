@@ -1,4 +1,4 @@
 google-api-python-client
 google-auth-oauthlib
-chatgptpy
+chatgptpy==1.0.5
 python-dotenv
